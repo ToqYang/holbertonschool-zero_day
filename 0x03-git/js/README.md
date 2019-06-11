@@ -1,0 +1,1 @@
+This folder contain advances of the webpage.
