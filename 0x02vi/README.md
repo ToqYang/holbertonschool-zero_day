@@ -1,1 +1,1 @@
-In this file find the different things about vi great.
+This file find the different things about vi great.
